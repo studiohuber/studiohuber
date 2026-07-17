@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e1019,100:a855f7&height=200&section=header&text=vgjtsy&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=python%20%7C%20dao%20%7C%20vibe&descAlignY=60&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e1019,100:a855f7&height=200&section=header&text=studiohuber&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=python%20%7C%20dao%20%7C%20vibe&descAlignY=60&descSize=22" />
 
 </div>
 
